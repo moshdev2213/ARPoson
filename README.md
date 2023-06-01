@@ -1,7 +1,7 @@
 
 # ARPorson
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+(![TV - 1](https://github.com/moshdev2213/ARPoson/assets/103739510/97188d94-ad7d-421e-8f9b-0b1c269f965a))
 
 AR Poson is an innovative Android app that combines augmented reality technology with the traditional celebration of Poson. The app brings the essence of Poson to life by showcasing virtual lanterns in an immersive and interactive way.
 

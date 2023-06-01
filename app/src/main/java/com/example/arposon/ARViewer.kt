@@ -100,7 +100,6 @@ class ARViewer : AppCompatActivity() {
             position = Float3(0f, 0f, 0f) // Adjust the position as needed
             scale = Float3(0.2f, 0.2f, 0.2f) // Adjust the scale as needed
         }
-        modelNode.anchor()
         sceneView.addChild(modelNode)
         modelNodes.add(modelNode)
         sceneView.planeRenderer.isVisible = false
